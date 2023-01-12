@@ -429,7 +429,7 @@ jQuery(function($){
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Akad Nikah</span></h4>
 						<div class="et_pb_blurb_description">
-							<p>Sabtu, 21 Januari 2023<br><strong> 08.00 s/d 10.00 WIB</strong><br> <strong>Diva Convention Hall</strong><br> Jl. Dr. Ir. Soekarno, Winduherang, Kec. Cigugur<br> Kab. Kuningan, Jawa Barat</p>
+							<p>Sabtu, 21 Januari 2023<br><strong> 08.00 WIB</strong><br> <strong>Diva Convention Hall</strong><br> Jl. Dr. Ir. Soekarno, Winduherang, Kec. Cigugur<br> Kab. Kuningan, Jawa Barat</p>
 						</div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
